@@ -4,7 +4,7 @@ public class Loader {
         while (i < 360){
             i++;
         }
-            System.out.println("Value i = " + i);
+            System.out.println("Value i = " + i+10);
 
     }
 }
